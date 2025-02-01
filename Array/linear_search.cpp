@@ -11,7 +11,7 @@ int Linear_search(int arr[], int size, int target){
 int main(){
     int size=5;
     int arr[size]={9,30,85,7,2};
-    int target=20;
+    int target=30;
     cout<<"the elment is "<<Linear_search(arr,size,target);
     return 0;
 }
